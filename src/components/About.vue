@@ -2,8 +2,8 @@
   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
     <div class="w-100">
       <h1 class="mb-0">
-        Loke
-        <span class="text-primary">Carlsson</span>
+        Mohammed
+        <span class="text-primary">Mardi</span>
       </h1>
       <div class="subheading mb-5">
         9695 Foo street · Bar town, CO 93440 · (123) 456-7890 ·
